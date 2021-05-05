@@ -1,0 +1,1 @@
+alert("Este conteúdo é impróprio para maiores")
