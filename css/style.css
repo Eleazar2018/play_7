@@ -1,8 +1,7 @@
-body {
-    background-color: yellow;
+h1 {
+    font-size: 15px;
 }
 
-h1 {
-    background-color: red;
-    font-size: 15px;
+body {
+    background-color: aqua;
 }
